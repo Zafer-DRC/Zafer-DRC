@@ -10,7 +10,6 @@
 <br/>  
 
 
-## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 
@@ -19,7 +18,6 @@
 
 
 
-### My Skill Set  
 <div align="center">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
